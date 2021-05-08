@@ -1,1 +1,1 @@
-# SimpleBeam
+# SimpleBeam2D
